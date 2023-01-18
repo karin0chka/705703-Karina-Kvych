@@ -1,0 +1,40 @@
+html,body{
+    height:100vh;
+}
+.side-menu{
+    background-color: rgb(200, 180, 154);
+    color:white;
+}
+.logo {
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+}
+
+.nav-link{
+    font-weight: 600;
+    text-transform:uppercase;
+    text-align: center;
+}
+
+.main-content{
+    background-image: url("../img/coffe.jpg");
+    color: aliceblue;
+   
+}
+.card-img-top{
+    object-fit: cover;
+}
+.navbar-nav{
+    width: 100%;
+}
+.section{
+    color: rgb(70, 59, 59);
+}
+.card-title{
+    color: black;
+}
+.icon-img{
+    height: 50px;
+    margin-inline: auto;
+}
